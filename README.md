@@ -48,3 +48,5 @@ The Power BI report consists of three main views:
 #  Conclusion
 
 This project successfully transformed raw hospital records into an interactive analytical tool. By integrating Python for data quality and Power BI for visual reporting, the solution provides hospital administrators with the ability to optimize staffing during peak hours (via the heatmaps) and improve patient satisfaction by monitoring wait-time targets.
+
+https://github.com/Manasa123-svg/Hospital-Emergency-Room-Python-SQL-Power-Bi-Project/blob/main/Hospital%20Emergency%20Room%20Dashboard%20Year%20and%20Monthly%20view%20%20-%20Copy.png
